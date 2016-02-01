@@ -1,0 +1,12 @@
+&dyn_control
+n_mode = 3,
+n_step = 50000,
+nuc_dt = 0.01,
+n_ele_dt = 100,
+n_save_trj = 1,
+label_restart = 0,
+label_diabatic = 1,
+label_hop_pro  = 3,
+n_state = 2,
+current_state = 2,
+/
